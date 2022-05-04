@@ -6,7 +6,7 @@ Projeto INOVATEC 2022
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/Cardapio>
+$ git clone <https://github.com/zeguil/Cardapio>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Cardapio
