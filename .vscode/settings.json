@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python\\Python36_64\\python.exe",
+    "files.exclude":{
+        "**/__pycache__": true,
+        "**/__init__.py": true,
+    }
+}
